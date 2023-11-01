@@ -21,7 +21,7 @@ _Create workflows that enable you to use Continuous Integration (CI) for your pr
 
 ## Step 4: Add branch protections
 
-_Great job uploading test reports! :partying_face:_
+_Great job uploading test reports! :partying_face: :partying_face:_
 
 Take a look at the merge box, you'll notice you can merge this even though the review process hasn't been met.
 
